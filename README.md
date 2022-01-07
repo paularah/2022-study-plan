@@ -8,7 +8,7 @@
 - K8s 
 - CSS and chakra ui 
 - Algorithm design 
-- basic web3 with a focus on devOps for web3
+- maybe basic web3 with a focus on devOps for web3
 
 ### courses 
 
