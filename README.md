@@ -2,7 +2,7 @@
 
 ### focus 
 
-- learn CQRS and event sourcing 
+- CQRS and event sourcing 
 - Golang 
 - Systems level programming 
 - K8s 
@@ -18,3 +18,7 @@
 - [-] [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 - [] [Nick Feamster Computer Networking](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 - [] [Matin cleppmann, Distributed Systems lecture series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+
+
+### Projects
+
