@@ -19,6 +19,12 @@
 - [] [Nick Feamster Computer Networking](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 - [] [Matin cleppmann, Distributed Systems lecture series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 
+### Books
+- [] Martin Kleppmann Designing Data-Intensive Applications(2017)
+- [] Thomas Hunter II Distributed Systems with Node.js 
+
 
 ### Projects
-
+- Build a linux system/server Gentoo or Arch to learn inner workings
+- Build a HA postgres server 
+- Create  a Ansible Playbook
