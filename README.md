@@ -1,4 +1,4 @@
-## My Study Plan for 2022 
+## Study Plan for 2022 
 
 ### focus 
 
