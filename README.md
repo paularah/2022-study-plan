@@ -3,12 +3,11 @@
 ### focus 
 
 - CQRS and event sourcing 
-- Golang 
+- More Golang 
 - Systems level programming 
 - K8s 
 - CSS and chakra ui 
 - Algorithm design 
-- maybe basic web3 with a focus on devOps for web3
 
 ### courses 
 
