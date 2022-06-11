@@ -27,3 +27,12 @@
 - [ ] Build a linux system/server Gentoo or Arch to learn inner workings
 - [ ] Build a HA postgres server 
 - [ ] Create  a Ansible Playbook
+
+
+###  Notes
+
+11/06/2022 
+
+Got better at CSS :) Not the worst thing afterall 
+Currently studying for CKAD and woking on a K8s project at GSOC 
+Too unmotivated to learn fancy algorithms 
