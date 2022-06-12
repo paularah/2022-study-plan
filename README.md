@@ -28,6 +28,9 @@
 - [ ] Build a HA postgres server 
 - [ ] Create  a Ansible Playbook
 
+### Certifcations 
+- [ ] Certified Kubernetes Application Developer (CKAD)
+
 
 ###  Notes
 
