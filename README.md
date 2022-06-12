@@ -36,6 +36,6 @@
 
 11/06/2022 
 
-Got better at CSS :) Not the worst thing afterall 
-Currently studying for CKAD and woking on a K8s project at GSOC 
-Too unmotivated to learn fancy algorithms 
+Got better at CSS :) Not the worst thing afterall \
+Currently studying for CKAD and woking on a K8s project at GSOC \
+Too unmotivated to learn fancy algorithms \
